@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="selenium-java-2.47.1-srcs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Testing/selenium-2.47.1/selenium-java-2.47.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Testing/selenium-2.47.1/selenium-java-2.47.1-srcs.jar!/" />
+    </SOURCES>
+  </library>
+</component>
